@@ -1,3 +1,6 @@
+## AI Lead Magnet
+LeadConvert helps creators turn regular content into interactive AI experiences, effortlessly capturing leads, and nurturing them towards your digital products. Created using a dynamic stack: Next 13, Typescript, React, Stripe, ChatGPT, Tailwind, and Prisma
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
